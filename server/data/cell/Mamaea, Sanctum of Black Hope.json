@@ -1,0 +1,40 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["382941-0"],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "creationTime":1697217276,
+    "description":"Mamaea, Sanctum of Black Hope"
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "382941-0":{
+      "refId":"hannat zainsubani",
+      "state":true
+    }
+  },
+  "loadState":{
+    "hasFullContainerData":false,
+    "hasFullActorList":false
+  }
+}

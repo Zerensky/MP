@@ -1,0 +1,39 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "creationTime":1696156739,
+    "description":"10, -5"
+  },
+  "lastVisit":{
+    "Violetta":1696789400,
+    "Adamast":1696789405,
+    "ZIR":1696789417
+  },
+  "recordLinks":[],
+  "objectData":[],
+  "loadState":{
+    "hasFullContainerData":true,
+    "hasFullActorList":true
+  }
+}

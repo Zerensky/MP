@@ -1,0 +1,21 @@
+{
+  "general":{
+    "currentGeneratedNum":1
+  },
+  "permanentRecords":[],
+  "generatedRecords":{
+    "$custom_armor_1":{
+      "baseId":"dwemer_cuirass",
+      "name":"Двемерская кираса",
+      "enchantmentCharge":100,
+      "enchantmentId":"$custom_enchantment_2"
+    }
+  },
+  "recordLinks":{
+    "$custom_armor_1":{
+      "players":[],
+      "cells":["Balmora, Guild of Fighters"]
+    }
+  },
+  "unlinkedRecordsToCheck":[]
+}

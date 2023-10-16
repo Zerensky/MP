@@ -1,0 +1,529 @@
+{
+  "packets":{
+    "actorList":["241618-0","241620-0","287791-0"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["241618-0","241620-0","287791-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":["241618-0","241620-0","287791-0"],
+    "lock":[],
+    "place":[],
+    "position":["241618-0","241620-0","287791-0"],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":["241618-0","241620-0","287791-0"],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "creationTime":1696174260,
+    "description":"3, -12"
+  },
+  "lastVisit":{
+    "Violetta":1697453313,
+    "Adamast":1697226890,
+    "ZIR":1697452225
+  },
+  "recordLinks":[],
+  "objectData":{
+    "241618-0":{
+      "refId":"ordinator wander",
+      "location":{
+        "posX":27942.486328125,
+        "posZ":1414.7023925781,
+        "posY":-94859.59375,
+        "rotX":0.76065921783447,
+        "rotY":0,
+        "rotZ":-1.1818740367889
+      },
+      "stats":{
+        "healthCurrent":181,
+        "magickaCurrent":122,
+        "healthModified":181,
+        "fatigueBase":318,
+        "fatigueModified":318,
+        "healthBase":181,
+        "magickaModified":122,
+        "magickaBase":122,
+        "fatigueCurrent":318
+      },
+      "equipment":{
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "241620-0":{
+      "refId":"ordinator wander",
+      "location":{
+        "posX":28028.796875,
+        "posZ":1465.9167480469,
+        "posY":-94831.046875,
+        "rotX":-0.44906800985336,
+        "rotY":0,
+        "rotZ":1.8396055698395
+      },
+      "stats":{
+        "healthCurrent":181,
+        "magickaCurrent":122,
+        "healthModified":181,
+        "fatigueBase":318,
+        "fatigueModified":318,
+        "healthBase":181,
+        "magickaModified":122,
+        "magickaBase":122,
+        "fatigueCurrent":318
+      },
+      "equipment":{
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "287791-0":{
+      "refId":"ordinator wander",
+      "location":{
+        "posX":28859.3828125,
+        "posZ":1793,
+        "posY":-94965.328125,
+        "rotX":-0.023979565128684,
+        "rotY":0,
+        "rotZ":1.7731392383575
+      },
+      "stats":{
+        "healthCurrent":181,
+        "magickaCurrent":122,
+        "healthModified":181,
+        "fatigueBase":318,
+        "fatigueModified":318,
+        "healthBase":181,
+        "magickaModified":122,
+        "magickaBase":122,
+        "fatigueCurrent":318
+      },
+      "equipment":{
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "17":{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    }
+  },
+  "loadState":{
+    "hasFullContainerData":true,
+    "hasFullActorList":true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":[],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":["470765-0"],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "creationTime":1697226835,
+    "description":"Ilunibi, Soul's Rattle"
+  },
+  "lastVisit":[],
+  "recordLinks":[],
+  "objectData":{
+    "470765-0":{
+      "refId":"dagoth gares",
+      "state":true
+    }
+  },
+  "loadState":{
+    "hasFullContainerData":false,
+    "hasFullActorList":false
+  }
+}

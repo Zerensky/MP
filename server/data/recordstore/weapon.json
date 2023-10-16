@@ -1,0 +1,30 @@
+{
+  "general":{
+    "currentGeneratedNum":2
+  },
+  "permanentRecords":[],
+  "generatedRecords":{
+    "$custom_weapon_1":{
+      "baseId":"dwarven battle axe",
+      "name":"Гномская секира",
+      "enchantmentCharge":300,
+      "enchantmentId":"$custom_enchantment_1"
+    },
+    "$custom_weapon_2":{
+      "baseId":"long bow",
+      "name":"Длинный лук",
+      "enchantmentCharge":200,
+      "enchantmentId":"$custom_enchantment_3"
+    }
+  },
+  "recordLinks":{
+    "$custom_weapon_1":{
+      "players":["ZIR"]
+    },
+    "$custom_weapon_2":{
+      "players":[],
+      "cells":["Balmora, Council Club"]
+    }
+  },
+  "unlinkedRecordsToCheck":[]
+}

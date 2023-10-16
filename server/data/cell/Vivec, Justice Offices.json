@@ -1,0 +1,695 @@
+{
+  "packets":{
+    "actorList":["217693-0","217692-0","217690-0","217691-0"],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["217750-0","217835-0","217850-0","336569-0","336570-0","336571-0","336572-0","336573-0","479133-0","217691-0","217692-0","217693-0","217690-0"],
+    "death":[],
+    "delete":["217829-0"],
+    "doorState":["217718-0","217721-0"],
+    "equipment":["217690-0","217692-0","217693-0","217691-0"],
+    "lock":[],
+    "place":[],
+    "position":["217690-0","217691-0","217692-0","217693-0"],
+    "scale":[],
+    "spawn":[],
+    "state":["329846-0"],
+    "statsDynamic":["217690-0","217691-0","217692-0","217693-0"],
+    "trap":[],
+    "spellsActive":["217691-0"],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "creationTime":1696527012,
+    "description":"Vivec, Justice Offices"
+  },
+  "lastVisit":{
+    "Violetta":1696528056
+  },
+  "recordLinks":[],
+  "objectData":{
+    "336572-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "217850-0":{
+      "refId":"de_r_drawers_01_empty",
+      "inventory":[]
+    },
+    "217750-0":{
+      "refId":"de_r_closet_01_empty",
+      "inventory":[]
+    },
+    "336573-0":{
+      "refId":"com_sack_02_pos",
+      "inventory":[]
+    },
+    "336571-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "336570-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "329846-0":{
+      "refId":"bk_nerevarinenotice",
+      "state":false
+    },
+    "217721-0":{
+      "refId":"in_velothismall_ndoor_01",
+      "doorState":1
+    },
+    "217835-0":{
+      "refId":"chest_small_02_rndgold",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":25,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "479133-0":{
+      "refId":"chest_small_02_rndgold",
+      "inventory":[{
+          "refId":"gold_001",
+          "count":22,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "217691-0":{
+      "refId":"felmena falavel",
+      "location":{
+        "posX":-423.91674804688,
+        "posZ":-127,
+        "posY":-450.57592773438,
+        "rotX":0.17377506196499,
+        "rotY":0,
+        "rotZ":1.7168290615082
+      },
+      "stats":{
+        "healthCurrent":120.24166870117,
+        "magickaCurrent":76,
+        "healthModified":127,
+        "fatigueBase":257,
+        "fatigueModified":257,
+        "healthBase":127,
+        "magickaModified":106,
+        "magickaBase":106,
+        "fatigueCurrent":256.4016418457
+      },
+      "equipment":[{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"expensive_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_skirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }],
+      "spellsActive":{
+        "viperbolt":[{
+            "startTime":1696528056,
+            "caster":{
+              "refId":"berel sala",
+              "uniqueIndex":"217690-0"
+            },
+            "displayName":"Укус гадюки",
+            "stackingState":false,
+            "effects":[{
+                "arg":-1,
+                "duration":2,
+                "id":27,
+                "timeLeft":2,
+                "magnitude":20
+              }]
+          }]
+      }
+    },
+    "217690-0":{
+      "refId":"berel sala",
+      "location":{
+        "posX":-101.23886108398,
+        "posZ":-127,
+        "posY":-766.77105712891,
+        "rotX":0.089844718575478,
+        "rotY":0,
+        "rotZ":-0.3056435585022
+      },
+      "stats":{
+        "healthCurrent":216,
+        "magickaCurrent":92,
+        "healthModified":216,
+        "fatigueBase":350,
+        "fatigueModified":350,
+        "healthBase":216,
+        "magickaModified":136,
+        "magickaBase":136,
+        "fatigueCurrent":349.90936279297
+      },
+      "equipment":[{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"expensive_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,null,{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_03",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "336569-0":{
+      "refId":"com_basket_01_chpfood5",
+      "inventory":[{
+          "refId":"ingred_scuttle_01",
+          "count":5,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "217693-0":{
+      "refId":"suryn athones",
+      "location":{
+        "posX":185.22233581543,
+        "posZ":-127,
+        "posY":555.15734863281,
+        "rotX":0.014952891506255,
+        "rotY":0,
+        "rotZ":-2.04336810112
+      },
+      "stats":{
+        "healthCurrent":161,
+        "magickaCurrent":116,
+        "healthModified":161,
+        "fatigueBase":299,
+        "fatigueModified":299,
+        "healthBase":161,
+        "magickaModified":116,
+        "magickaBase":116,
+        "fatigueCurrent":299
+      },
+      "equipment":{
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "8":{
+          "refId":"expensive_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },
+        "16":{
+          "refId":"gavel of the ordinator",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }
+      },
+      "inventory":[{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_shirt_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"gavel of the ordinator",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "217692-0":{
+      "refId":"aroa nethalen",
+      "location":{
+        "posX":-39.90311050415,
+        "posZ":-127,
+        "posY":486.08541870117,
+        "rotX":0.0048061134293675,
+        "rotY":0,
+        "rotZ":2.7590410709381
+      },
+      "stats":{
+        "healthCurrent":169,
+        "magickaCurrent":118,
+        "healthModified":169,
+        "fatigueBase":307,
+        "fatigueModified":307,
+        "healthBase":169,
+        "magickaModified":118,
+        "magickaBase":118,
+        "fatigueCurrent":307
+      },
+      "equipment":[{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },null,null,null,null,null,{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        },{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1
+        }],
+      "inventory":[{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        },{
+          "refId":"steel longsword",
+          "count":1,
+          "charge":-1,
+          "enchantmentCharge":-1,
+          "soul":""
+        }]
+    },
+    "217718-0":{
+      "refId":"in_velothismall_ndoor_01",
+      "doorState":1
+    },
+    "217829-0":{
+      "refId":"misc_de_pot_green_01"
+    }
+  },
+  "loadState":{
+    "hasFullContainerData":true,
+    "hasFullActorList":true
+  }
+}

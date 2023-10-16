@@ -1,0 +1,43 @@
+{
+  "packets":{
+    "actorList":[],
+    "ai":[],
+    "cellChangeFrom":[],
+    "cellChangeTo":[],
+    "container":["174322-0"],
+    "death":[],
+    "delete":[],
+    "doorState":[],
+    "equipment":[],
+    "lock":[],
+    "place":[],
+    "position":[],
+    "scale":[],
+    "spawn":[],
+    "state":[],
+    "statsDynamic":[],
+    "trap":[],
+    "spellsActive":[],
+    "miscellaneous":[],
+    "clientScriptLocal":[]
+  },
+  "entry":{
+    "creationTime":1696156190,
+    "description":"6, -1"
+  },
+  "lastVisit":{
+    "Violetta":1696156354,
+    "ZIR":1696156351
+  },
+  "recordLinks":[],
+  "objectData":{
+    "174322-0":{
+      "refId":"contain_trama_shrub_01",
+      "inventory":[]
+    }
+  },
+  "loadState":{
+    "hasFullContainerData":true,
+    "hasFullActorList":true
+  }
+}
